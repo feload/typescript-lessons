@@ -1,0 +1,1 @@
+export type InputData = { title: string, description: string, people: number };
